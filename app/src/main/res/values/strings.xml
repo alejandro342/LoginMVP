@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">LoginMVP</string>
+    <string name="login_toolbar">Iniciar Sesión</string>
+
+    <!--textview login-->
+    <string name="email_login">Correo electrónico</string>
+    <string name="password_login">Contraseña</string>
+    <string name="register_login">¿No tienes una cuenta? Regístrate aquí.</string>
+    <!--btn login-->
+    <string name="button_login">Iniciar sesión</string>
+    <!--btn close-->
+    <string name="button_close">Cerrar sesión</string>
+</resources>
